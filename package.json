@@ -1,0 +1,21 @@
+{
+    "title": "Oceanic Dark",
+    "name": "oceanic-dark-theme",
+    "description": "Inspired by the Oceanic Dark Theme from Codepen.io",
+    "version": "1.0.0",
+    "author": "Kai Siemek (https://github.com/kaisiemek)",
+    "homepage": "https://github.com/kaisiemek/oceanic-dark-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaisiemek/oceanic-dark-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.1.0"
+    },
+    "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+    }
+}
