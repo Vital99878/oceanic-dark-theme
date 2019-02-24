@@ -10,7 +10,7 @@ Inspired by Oceanic Dark Theme on Codepen.
 * Click "Install"
 
 ## Javascript
-![JS Screenshot](hhttps://github.com/kaisiemek/oceanic-dark-theme/blob/master/screenshot/js-screenshot.png)
+![JS Screenshot](https://github.com/kaisiemek/oceanic-dark-theme/blob/master/screenshot/js-screenshot.png)
 ## HTML
 ![HTML Screenshot](https://github.com/kaisiemek/oceanic-dark-theme/blob/master/screenshot/html-screenshot.png)
 ## CSS
