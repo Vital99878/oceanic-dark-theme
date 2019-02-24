@@ -2,6 +2,8 @@
 
 Inspired by Oceanic Dark Theme on Codepen.
 
+WIP (Javascript Syntax will be made much prettier!)
+
 ## Installation
 
 * Open the Extension Manager in Brackets
